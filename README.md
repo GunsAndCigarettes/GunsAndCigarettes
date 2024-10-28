@@ -204,5 +204,5 @@
  <img width="2000" src="https://gifcity.carrd.co/assets/images/gallery40/0a24ec5b.gif?v=7421cb56"
  <p/>
 <p align="center">
-<img width="300" src="https://i.pinimg.com/236x/c3/29/1d/c3291d59d7c404900898a71c11752289.jpg"
+<img width="300" src="https://i.pinimg.com/736x/88/b9/36/88b936a7e4333d424d53bede5a430bc0.jpg"
 <p/>
