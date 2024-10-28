@@ -138,7 +138,11 @@
 
 
 <p align="center">
- <img width="35" src="https://64.media.tumblr.com/786d66ba80170e41e93d01226694db95/1bf10d2268d0dc71-0d/s75x75_c1/1ddf59bfc3759afced8d6148538f8acd46486b81.gifv"
+ <img width="70" src="https://files.catbox.moe/5g5mg1.gif"
+ </p>
+ <img width="55" src="https://files.catbox.moe/kiznjt.gif"
+ </p>
+  <img width="70" src="https://files.catbox.moe/hzaukz.gif"
  </p>
 
  
