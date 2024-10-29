@@ -23,6 +23,9 @@
   <strong>${\color{#ad2b2b}➤}$⠀i dont talk much</strong>, im not talkative and i often dont int first due to anxiety
      </p>
   <p align="center">
+  <strong>${\color{#ad2b2b}➤}$⠀i got flagged for not paying 24$/month</strong>, so u wont see me as often
+  </p>
+  <p align="center">
   <strong>${\color{#ad2b2b}➤}$⠀pls sign my atabook!!,</strong> if you want to ofc ^_^
   </p>
   <p align="center">
